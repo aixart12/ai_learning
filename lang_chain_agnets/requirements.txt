@@ -1,0 +1,10 @@
+flask
+python-dotenv
+langchain
+langgraph
+openai
+duckduckgo-search
+gunicorn
+langchain-openai
+langchain-community
+duckduckgo-search
